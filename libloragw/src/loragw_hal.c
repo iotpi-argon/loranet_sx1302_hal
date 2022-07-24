@@ -43,6 +43,7 @@ License: Revised BSD License, see LICENSE.TXT file include in the project
 #include "loragw_sx125x.h"
 #include "loragw_sx1261.h"
 #include "loragw_sx1302.h"
+
 #include "loragw_sx1302_timestamp.h"
 #include "loragw_stts751.h"
 #include "loragw_ad5338r.h"
