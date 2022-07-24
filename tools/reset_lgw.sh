@@ -14,8 +14,8 @@
 
 SX1302_RESET_PIN=154     # SX1302 reset
 SX1302_POWER_EN_PIN=156  # SX1302 power enable
-SX1261_RESET_PIN=22     # SX1261 reset (LBT / Spectral Scan)
-AD5338R_RESET_PIN=13    # AD5338R reset (full-duplex CN490 reference design)
+SX1261_RESET_PIN=133     # SX1261 reset (LBT / Spectral Scan)
+AD5338R_RESET_PIN=158    # AD5338R reset (full-duplex CN490 reference design)
 
 WAIT_GPIO() {
     sleep 0.1
